@@ -6,6 +6,8 @@ public class Demo1 {
 		
 		
 		System.out.println("This is sample java App");
+		
+		System.out.println("this is second line ");
 	}
 
 }
