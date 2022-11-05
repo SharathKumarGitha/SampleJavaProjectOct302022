@@ -14,10 +14,11 @@ public static void main(String[] args) {
 	System.out.println("something10....");
 	System.out.println("something11....");
 	
+
 	int m1=10;
 	int m2=20;
 	System.out.println(m1+m2);
-			
+
 			
 }
 }
