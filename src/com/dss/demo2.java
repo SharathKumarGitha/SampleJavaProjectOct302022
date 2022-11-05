@@ -13,5 +13,11 @@ public static void main(String[] args) {
 	System.out.println("something7.....");
 	System.out.println("something10....");
 	System.out.println("something11....");
+	
+	int data1=10;
+	int data2=100;
+	System.out.println(data1+data2);
+			
+			
 }
 }
