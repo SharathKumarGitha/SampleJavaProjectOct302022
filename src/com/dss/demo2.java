@@ -31,6 +31,12 @@ public static void main(String[] args) {
 	int m2=20;
 	System.out.println(m1+m2);
 
+	
+	int m3=100;
+	int m4=100;
+	
+	System.out.println(m3*m4);
+
 			
 }
 }
